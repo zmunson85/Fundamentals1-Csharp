@@ -1,0 +1,4 @@
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.csproj.CoreCompileInputs.cache
