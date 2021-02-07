@@ -2,3 +2,12 @@ C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\n
 C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.AssemblyInfoInputs.cache
 C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.AssemblyInfo.cs
 C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\bin\Debug\netcoreapp3.1\fundamentals.exe
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\bin\Debug\netcoreapp3.1\fundamentals.deps.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\bin\Debug\netcoreapp3.1\fundamentals.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\bin\Debug\netcoreapp3.1\fundamentals.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\bin\Debug\netcoreapp3.1\fundamentals.dll
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\bin\Debug\netcoreapp3.1\fundamentals.pdb
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.dll
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.pdb
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\fundamentals\obj\Debug\netcoreapp3.1\fundamentals.genruntimeconfig.cache
